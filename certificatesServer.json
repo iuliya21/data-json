@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Данные с сервера TEST GOST 512",
+    "issuedBy": "Rutoken TEST CA COST",
+    "serialNumber": "13996857505901613850",
+    "validity": "Н08:04:34 26.10.2023 – 08:04:34 26.10.2024",
+    "statusText": "Активный"
+  },
+  {
+    "title": "Ermilova Dina ГОСТ ЕГАИС",
+    "issuedBy": "Rutoken TEST CA COST",
+    "serialNumber": "13996857505901613850",
+    "validity": "Н08:04:34 26.10.2023 – 08:04:34 26.10.2024",
+    "statusText": "Активный"
+  },
+  {
+    "title": "Ermilova Dina ГОСТ ЕГАИС",
+    "issuedBy": "Rutoken TEST CA COST",
+    "serialNumber": "13996857505901613850",
+    "validity": "Н08:04:34 26.10.2023 – 08:04:34 26.10.2024",
+    "statusText": "Отозван"
+  }
+]
