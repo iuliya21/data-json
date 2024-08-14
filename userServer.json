@@ -16,5 +16,8 @@
     "employee_doc_divisioncode": "123-123",
     "employee_doc_region": "Москва",
     "employee_doc_town": "г. Москва",
-    "employee_doc_address": "ул. Рябиновая, д. 70, кв. 4"
+    "employee_doc_address": "ул. Рябиновая, д. 70, кв. 4",
+    "organization": "",
+    "department_select": "",
+    "post": ""
   }
